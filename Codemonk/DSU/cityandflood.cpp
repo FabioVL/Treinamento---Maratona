@@ -51,6 +51,7 @@ int main()
 		unite(x,y);
 	}
 	for(int i=1;i<=n;i++) s.insert(root(i));
+	 
 	cout << s.size() << endl;
 }
 
